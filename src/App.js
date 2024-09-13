@@ -6,14 +6,15 @@ function App() {
     <div className="container">
       <h1 className="title">Buscador de CEP</h1>
 
-      <div className="cointainerInput">
+      <div className="containerInput">
         <input 
         type="text"
         placeholder="Digite seu CEP">
         </input>
-      <button className="buttonSearch">
+      <button className="buttonSearch" >
         <FiSearch size={25} color="FFF"/>
       </button>
+      </div>
       
       <main className='main'>
         <h2>CEP: 79003222</h2>
@@ -23,10 +24,11 @@ function App() {
         <span>Vila Rosa</span>
         <span>Viamão - RS</span>
       </main>
-
-      </div>
-      
+      <footer>
+        <p>Site criado por César Bugmaer</p>
+    </footer>
     </div>
+    
   );
 }
 
