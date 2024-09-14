@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "//bugmaer.github.io/buscaCep/static/css/main.0321d87e.css",
-    "main.js": "//bugmaer.github.io/buscaCep/static/js/main.39f29840.js",
-    "index.html": "//bugmaer.github.io/buscaCep/index.html",
-    "main.0321d87e.css.map": "//bugmaer.github.io/buscaCep/static/css/main.0321d87e.css.map",
-    "main.39f29840.js.map": "//bugmaer.github.io/buscaCep/static/js/main.39f29840.js.map"
+    "main.css": "/buscaCep/static/css/main.0321d87e.css",
+    "main.js": "/buscaCep/static/js/main.39f29840.js",
+    "index.html": "/buscaCep/index.html",
+    "main.0321d87e.css.map": "/buscaCep/static/css/main.0321d87e.css.map",
+    "main.39f29840.js.map": "/buscaCep/static/js/main.39f29840.js.map"
   },
   "entrypoints": [
     "static/css/main.0321d87e.css",
