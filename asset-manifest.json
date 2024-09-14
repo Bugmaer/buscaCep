@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "//bugmaer.github.io/buscaCep/static/css/main.0321d87e.css",
+    "main.js": "//bugmaer.github.io/buscaCep/static/js/main.39f29840.js",
+    "index.html": "//bugmaer.github.io/buscaCep/index.html",
+    "main.0321d87e.css.map": "//bugmaer.github.io/buscaCep/static/css/main.0321d87e.css.map",
+    "main.39f29840.js.map": "//bugmaer.github.io/buscaCep/static/js/main.39f29840.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0321d87e.css",
+    "static/js/main.39f29840.js"
+  ]
+}
