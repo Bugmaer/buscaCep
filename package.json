@@ -2,7 +2,7 @@
   "name": "projeto-buscador",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://bugmaer.github.io/cadastro",
+  "homepage": "https://bugmaer.github.io/buscaCep",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
